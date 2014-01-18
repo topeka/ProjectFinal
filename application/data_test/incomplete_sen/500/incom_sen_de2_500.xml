@@ -1,0 +1,376 @@
+<!-- 40 cau-->
+
+<questions>
+	<question>
+			<cau>1</cau>
+			<content>Dave bought ……… lamp for his mother’s birthday</content>	
+			<key>a</key>
+			<optiona>A lovely new </optiona>
+			<optionb>A new lovely</optionb>
+			<optionc>A lovelier new</optionc>
+			<optiond>A new lovelier</optiond>
+	</question>
+	<question>
+			<cau>2</cau>
+			<content>The holiday season is by far the busiest time of year for ……… stores</content>
+			<key>b</key>
+			<optiona>Of the most</optiona>
+			<optionb>Most</optionb>
+			<optionc>The most of</optionc>
+			<optiond>Mostly</optiond>
+	</question>
+	<question>
+			<cau>3</cau>
+			<content>Would you like another ……… tea?</content>
+			<key>c</key>
+			<optiona>Bowl</optiona>
+			<optionb>Cup</optionb>
+			<optionc>Cup of</optionc>
+			<optiond>Serving of</optiond>
+				
+	</question>
+	<question>
+			<cau>4</cau>
+			<content>Could you ………drinks to those guests who just arrived?</content>
+			<key>b</key>
+			<optiona>Pour</optiona>
+			<optionb>Serve</optionb>
+			<optionc>Make</optionc>
+			<optiond>Fill</optiond>
+			
+	</question>
+	<question>
+			<cau>5</cau>
+			<content>I’m sure that I would enjoy ……… one, the red wine or the white wine</content>
+			<key>c</key>
+			<optiona>Others</optiona>
+			<optionb>Both</optionb>
+			<optionc>Either</optionc>
+			<optiond>Some</optiond> 
+	</question>
+	<question>
+			<cau>6</cau>
+			<content>I don’t go to that language school ………</content>
+			<key>c</key>
+			<optiona>No longer</optiona>
+			<optionb>Not longer </optionb>
+			<optionc>Anymore</optionc>
+			<optiond>No more</optiond>
+			
+	</question>
+	<question>
+			<cau>7</cau>
+			<content>Don’t forget to change the oil ……… 3,000 miles</content>
+			<key>b</key>
+			<optiona>Each</optiona>
+			<optionb>Every</optionb>
+			<optionc>Another</optionc>
+			<optiond>Other</optiond>
+	</question>
+	<question>
+			<cau>8</cau>
+			<content>……… in this department was busy preparing for the conference last week</content>
+			<key>a</key>
+			<optiona>Every person</optiona>
+			<optionb>Every people</optionb>
+			<optionc>All people</optionc>
+			<optiond>All the people</optiond>
+			
+	</question>
+	<question>
+			<cau>9</cau>
+			<content>Sorry this is taking so long. Can you wait for ……… ten minutes?</content>
+			<key>c</key>
+			<optiona>Other</optiona>
+			<optionb>An other</optionb>
+			<optionc>Another</optionc>
+			<optiond>Few</optiond>
+			
+	</question>
+	<question>
+			<cau>10</cau>
+			<content>Most ……… work hard</content>
+			<key>b</key>
+			<optiona>Of employees</optiona>
+			<optionb>Employees</optionb>
+			<optionc>Employee</optionc>
+			<optiond>Of employee</optiond>
+	</question>
+	<question>
+			<cau>11</cau>
+			<content>Why was the soccer game ……… yesterday?</content>
+			<key>d</key>
+			<optiona>To cancel</optiona>
+			<optionb>Canceling</optionb>
+			<optionc>Cancel</optionc>
+			<optiond>Cancelled</optiond>
+	</question>
+	<question>
+			<cau>12</cau>
+			<content>Left alone, the baby ……… into tears</content>
+			<key>b</key>
+			<optiona>Carried</optiona>
+			<optionb>Burst</optionb>
+			<optionc>Poured</optionc>
+			<optiond>Sobbed</optiond>
+	</question>
+	<question>
+			<cau>13</cau>
+			<content>Everybody ……… with the results of the meeting</content>
+			<key>d</key>
+			<optiona>Was satisfy</optiona>
+			<optionb>Satisfied</optionb>
+			<optionc>Was to satisfy</optionc>
+			<optiond>Was satisfied</optiond>
+	<question>
+			<cau>14</cau>
+			<content>……… snow, the mountain looks fantastic</content>
+			<key>c</key>
+			<optiona>Covering</optiona>
+			<optionb>To cover</optionb>
+			<optionc>Covered with</optionc>
+			<optiond>To have covered</optiond>
+	</question>
+	<question>
+			<cau>15</cau>
+			<content>You had ……… have your teeth checked at least once a year</content>
+			<key>c</key>
+			<optiona>Should</optiona>
+			<optionb>Good</optionb>
+			<optionc>Better</optionc>
+			<optiond>Worse</optiond>
+	</question>
+	<question>
+			<cau>16</cau>
+			<content>The instructions ……… precisely</content>
+			<key>d</key>
+			<optiona>Must follow</optiona>
+			<optionb>Must followed</optionb>
+			<optionc>Must to be followedoptionc>
+			<optiond>Must be followed</optiond>
+	</question>
+	<question>
+			<cau>17</cau>
+			<content>The United Nations ……… to begin fund raising for the earthquake victims</content>
+			<key>d</key>
+			<optiona>Are expect</optiona>
+			<optionb>Is expect</optionb>
+			<optionc>Are expected</optionc>
+			<optiond>Is expected</optiond>
+	<question>
+			<cau>18</cau>
+			<content>I’m quite sure you will soon grow ……… to the new work environment</content>
+			<key>c</key>
+			<optiona>Accustom</optiona>
+			<optionb>Accustoming</optionb>
+			<optionc>Accustomed</optionc>
+			<optiond>To be accustomed</optiond>
+	</question>
+	</question>
+	<question>
+			<cau>19</cau>
+			<content>During the experiment, people ……… to use calculators if necessary</content>
+			<key>b</key>
+			<optiona>Were let</optiona>
+			<optionb>Were allowed</optionb>
+			<optionc>Were allowing</optionc>
+			<optiond>Let</optiond>
+	</question>
+	<question>
+			<cau>20</cau>
+			<content>I never see him without being ……… of his grandfather</content>
+			<key>d</key>
+			<optiona>Remember</optiona>
+			<optionb>Memory</optionb>
+			<optionc>Remained</optionc>
+			<optiond>Reminded</optiond>
+	</question>
+	<!--practice test 7-->
+	<question>
+			<cau>21</cau>
+			<content>Ms. Kim is learning Russian ……… she can communicate with her new father-in-law.</content>
+			<key>b</key>
+			<optiona>So that</optiona>
+			<optionb>Because</optionb>
+			<optionc>Although</optionc>
+			<optiond>Then</optiond>
+	</question>
+	<question>
+			<cau>22</cau>
+			<content>In order to get a ………, you must bring in the defective product with a valid receipt</content>
+			<key>d</key>
+			<optiona>Reimbursement</optiona>
+			<optionb>Premium</optionb>
+			<optionc>Duplication</optionc>
+			<optiond>Refund</optiond>
+	</question>
+	<question>
+			<cau>23</cau>
+			<content>I’m surprised ……… how fast customers get served in this restaurant</content>
+			<key>a</key>
+			<optiona>On</optiona>
+			<optionb>At</optionb>
+			<optionc>In</optionc>
+			<optiond>For</optiond>
+	</question>
+	<question>
+			<cau>24</cau>
+			<content>My cousin’s ……… advice about selling our stock saved us thousands</content>
+			<key>a</key>
+			<optiona>Amazingly</optiona>
+			<optionb>Amazed</optionb>
+			<optionc>Amazing</optionc>
+			<optiond>Amazemen</optiond>
+	</question>
+	
+	<!--End chua dien key-->
+	
+	<question>
+			<cau>25</cau>
+			<content>Politicians are said to be the ……… reliable people in the world; nevertheless, there are always some people who seek such a career</content>
+			<key>b</key>
+			<optiona>Less</optiona>
+			<optionb>Least</optionb>
+			<optionc>More</optionc>
+			<optiond>Worst</optiond>
+	</question>
+	<question>
+			<cau>26</cau>
+			<content>Of all the presidential aides, they say he has the ……… powerful voice in decision-making</content>
+			<key>c</key>
+			<optiona>Much more</optiona>
+			<optionb>More than</optionb>
+			<optionc>Most</optionc>
+			<optiond>Best</optiond>
+	</question>
+	<question>
+			<cau>27</cau>
+			<content>Though he was ……… handsome man she had ever met, Caroline wouldn’t go out with him on a date</content>
+			<key>d</key>
+			<optiona>The more</optiona>
+			<optionb>More</optionb>
+			<optionc>Best</optionc>
+			<optiond>The most</optiond>
+	</question>
+	<question>
+			<cau>28</cau>
+			<content>Of the two games, no one thought the previous one was ……… exciting game</content>
+			<key>d</key>
+			<optiona>More</optiona>
+			<optionb>The best</optionb>
+			<optionc>Most</optionc>
+			<optiond>The more </optiond>
+	</question>
+	<question>
+			<cau>29</cau>
+			<content>The director is not as particular about the project ……… he used to be</content>
+			<key>c</key>
+			<optiona>So</optiona>
+			<optionb>Than</optionb>
+			<optionc>As</optionc>
+			<optiond>That</optiond>
+	</question>
+	<question>
+			<cau>30</cau>
+			<content>The situation is likely to become ……… than we expected it would be</content>
+			<key>b</key>
+			<optiona>Much bad</optiona>
+			<optionb>Much worse</optionb>
+			<optionc>Very bad</optionc>
+			<optiond>Very worse</optiond>
+	</question>
+	<question>
+			<cau>31</cau>
+			<content>The boy didn’t want to say ………</content>
+			<key>c</key>
+			<optiona>What did he do</optiona>
+			<optionb>What had he done</optionb>
+			<optionc>What he had done</optionc>
+			<optiond>What he was done</optiond>
+	</question>
+	<question>
+			<cau>32</cau>
+			<content>……… I don’t get back tonight, my wife will certainly be upset</content>
+			<key>a</key>
+			<optiona>If</optiona>
+			<optionb>Unless</optionb>
+			<optionc>Although</optionc>
+			<optiond>So</optiond>
+	</question>
+	<question>
+			<cau>33</cau>
+			<content>……… moving, or your feet will be come frozen in the extreme cold</content>
+			<key>a</key>
+			<optiona>Keep</optiona>
+			<optionb>Keeps</optionb>
+			<optionc>Keeping</optionc>
+			<optiond>Kept</optiond>
+	</question>
+	<question>
+			<cau>34</cau>
+			<content>Leave the office right away, ……… you will miss the train because of the traffic</content>
+			<key>c</key>
+			<optiona>So</optiona>
+			<optionb>And</optionb>
+			<optionc>Or</optionc>
+			<optiond>But</optiond>
+	</question>
+	<question>
+			<cau>35</cau>
+			<content>It’s time we ……… the store. It’s already ten o’clock</content>
+			<key>b</key>
+			<optiona>Have closed</optiona>
+			<optionb>Closed</optionb>
+			<optionc>Closing</optionc>
+			<optiond>Are closing</optiond>
+	</question>
+	<question>
+			<cau>36</cau>
+			<content>As ……… as he keeps silent, there will be no danger of the information being disclosed</content>
+			<key>a</key>
+			<optiona>Long</optiona>
+			<optionb>Fast</optionb>
+			<optionc>Soon</optionc>
+			<optiond>Far</optiond>
+		
+	</question>
+	<question>
+			<cau>37</cau>
+			<content>Anyone is welcome ……… they act respectfully the ceremony</content>
+			<key>b</key>
+			<optiona>Provide that</optiona>
+			<optionb>Providing that</optionb>
+			<optionc>Provided if</optionc>
+			<optiond>Providing if</optiond>
+	</question>
+	<question>
+			<cau>38</cau>
+			<content>I wish I ……… that she was sick. I would have gone to see her</content>
+			<key>b</key>
+			<optiona>Knew</optiona>
+			<optionb>Had known</optionb>
+			<optionc>Know</optionc>
+			<optiond>Have known</optiond>
+		
+	</question>
+	<question>
+			<cau>39</cau>
+			<content>I wish my father ……… here with me now, he passed away three years ago</content>
+			<key>c</key>
+			<optiona>Is</optiona>
+			<optionb>Was</optionb>
+			<optionc>Were</optionc>
+			<optiond>Are</optiond>
+	</question>
+	<question>
+			<cau>40</cau>
+			<content>You didn’t ask me, otherwise, I would ……… you the whole story</content>
+			<key>c</key>
+			<optiona>Told</optiona>
+			<optionb>Tell</optionb>
+			<optionc>Have told</optionc>
+			<optiond>Have been told</optiond>
+		
+	</question>
+	
+</questions>

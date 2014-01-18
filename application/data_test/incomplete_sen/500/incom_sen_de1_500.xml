@@ -1,0 +1,384 @@
+<!-- 40 cau-->
+
+<questions>
+	<question>
+			<cau>1</cau>
+			<content>They were heard ……… goodbye to their friends</content>	
+			<key>b</key>
+			<optiona>Say </optiona>
+			<optionb>Saying</optionb>
+			<optionc>Said</optionc>
+			<optiond>Be saying</optiond>
+
+	</question>
+	<question>
+			<cau>2</cau>
+			<content>My son is not very good at ……… yet.</content>
+			<key>c</key>
+			<optiona>Drive</optiona>
+			<optionb>To drive</optionb>
+			<optionc>Driving</optionc>
+			<optiond>Will drive</optiond>
+			
+	</question>
+	<question>
+			<cau>3</cau>
+			<content>We think ……… him to have access to the Internet is a bad idea</content>
+			<key>c</key>
+			<optiona>Allow</optiona>
+			<optionb>To allow</optionb>
+			<optionc>Allowing</optionc>
+			<optiond>Allowance</optiond>
+				
+	</question>
+	<question>
+			<cau>4</cau>
+			<content>Since we live by an airport, we can easily watch the airplanes ……… off</content>
+			<key>a</key>
+			<optiona>Take</optiona>
+			<optionb>To take</optionb>
+			<optionc>Be taking</optionc>
+			<optiond>Will take</optiond>
+			
+	</question>
+	<question>
+			<cau>5</cau>
+			<content>They politely asked me ……… in another place</content>
+			<key>b</key>
+			<optiona>Stand</optiona>
+			<optionb>To stand</optionb>
+			<optionc>Standing</optionc>
+			<optiond>Stood</optiond>
+
+	</question>
+	<question>
+			<cau>6</cau>
+			<content>I seldom forget ……… my teeth before going to bed</content>
+			<key>b</key>
+			<optiona>Brush</optiona>
+			<optionb>To brush </optionb>
+			<optionc>Brushing</optionc>
+			<optiond>Brushed</optiond>
+			
+	</question>
+	<question>
+			<cau>7</cau>
+			<content>I would like ……… by your office on my way home</content>
+			<key>b</key>
+			<optiona>Drop</optiona>
+			<optionb>To drop </optionb>
+			<optionc>Dropping</optionc>
+			<optiond>Will drop</optiond>
+			
+	</question>
+	<question>
+			<cau>8</cau>
+			<content>They are considering ……… to Atlana</content>
+			<key>c</key>
+			<optiona>Move</optiona>
+			<optionb>To move</optionb>
+			<optionc>Moving</optionc>
+			<optiond>Will move </optiond>
+			
+	</question>
+	<question>
+			<cau>9</cau>
+			<content>I can’t afford……… a new car</content>
+			<key>b</key>
+			<optiona>Buy</optiona>
+			<optionb>To buy</optionb>
+			<optionc>Buying</optionc>
+			<optiond>Bought</optiond>
+			
+	</question>
+	<question>
+			<cau>10</cau>
+			<content>Who does she ……… to take care of her?</content>
+			<key>b</key>
+			<optiona>Want</optiona>
+			<optionb>Wants</optionb>
+			<optionc>To want</optionc>
+			<optiond>Will want </optiond>
+			
+	</question>
+	<question>
+			<cau>11</cau>
+			<content>I thought I had sent the letter two weeks ………</content>
+			<key>a</key>
+			<optiona>Ago</optiona>
+			<optionb>Before</optionb>
+			<optionc>Since</optionc>
+			<optiond>From</optiond>
+			
+	</question>
+
+	<question>
+			<cau>12</cau>
+			<content>When I asked him how long he had been waiting, he said, “I’ve been waiting ……… four o’clock”.</content>
+			<key>c</key>
+			<optiona>From</optiona>
+			<optionb>For</optionb>
+			<optionc>Since</optionc>
+			<optiond>During</optiond>
+	</question>
+	
+	<question>
+			<cau>13</cau>
+			<content> ……… out of the window when I saw him step out of the house</content>
+			<key>c</key>
+			<optiona>Looked</optiona>
+			<optionb>Wants</optionb>
+			<optionc>Was looking</optionc>
+			<optiond>Had looked</optiond>
+	</question>
+	<question>
+			<cau>14</cau>
+			<content>You ……… worried. Is something wrong?</content>
+			<key>a</key>
+			<optiona>Seem</optiona>
+			<optionb>Seems</optionb>
+			<optionc>Are seeming</optionc>
+			<optiond>Are seemed</optiond>
+	</question>
+	<question>
+			<cau>15</cau>
+			<content>My contact at the conference wasn’t exactly a stranger, I ……… her two or three times before</content>
+			<key>d</key>
+			<optiona>Meet</optiona>
+			<optionb>Will meet</optionb>
+			<optionc>Have met</optionc>
+			<optiond>Had met</optiond>
+			
+	</question>
+	<question>
+			<cau>16</cau>
+			<content>I ……… a lot of him lately. I know he is still athletic as he used to be</content>
+			<key>c</key>
+			<optiona>See</optiona>
+			<optionb>Will see</optionb>
+			<optionc>Will see</optionc>
+			<optiond>Had seen</optiond>
+	</question>
+	<question>
+			<cau>17</cau>
+			<content>He asked me, “When ……… the project”?</content>
+			<key>c</key>
+			<optiona>You finished</optiona>
+			<optionb>Have you finished</optionb>
+			<optionc>Did you finish</optionc>
+			<optiond>Has you finished</optiond>
+	</question>
+	<question>
+			<cau>18</cau>
+			<content>I wish my mother ……… with me now</content>
+			<key>d</key>
+			<optiona>Is</optiona>
+			<optionb>Be</optionb>
+			<optionc>Had been</optionc>
+			<optiond>Were</optiond>
+		
+	</question>
+	<question>
+			<cau>19</cau>
+			<content>We will leave the moment he ………</content>
+			<key>c</key>
+			<optiona>Arrive</optiona>
+			<optionb>Arrives</optionb>
+			<optionc>Will arrive</optionc>
+			<optiond>Has arrived</optiond>
+	</question>
+	<question>
+			<cau>20</cau>
+			<content>He usually ……… the bus to work, but this morning he took the train instead</content>
+			<key>a</key>
+			<optiona>Takes</optiona>
+			<optionb>Took</optionb>
+			<optionc>Has taken</optionc>
+			<optiond>Had taken</optiond>
+	</question>
+	<!--practice test 3-->
+	<question>
+			<cau>21</cau>
+			<content>Though he earns ……… much money as I do, he always says he runs short of money</content>
+			<key>b</key>
+			<optiona>As twice</optiona>
+			<optionb>Twice as</optionb>
+			<optionc>So twice</optionc>
+			<optiond>Twice so</optiond>
+	</question>
+	<question>
+			<cau>22</cau>
+			<content>According to a survey, the size of a man’s eyes is generally a bit smaller than ……… </content>
+			<key>d</key>
+			<optiona>woman’s</optiona>
+			<optionb>Those of a woman</optionb>
+			<optionc>That of a woman</optionc>
+			<optiond>That of a woman’s</optiond>
+	</question>
+	<question>
+			<cau>23</cau>
+			<content>Prior ……… starting the tournament, they shook hands and promised to play fair.</content>
+			<key>a</key>
+			<optiona>To</optiona>
+			<optionb>Than</optionb>
+			<optionc>As</optionc>
+			<optiond>Before</optiond>
+	</question>
+	<question>
+			<cau>24</cau>
+			<content>Marry is the ……… of the four girls who tried out for the baseball team</content>
+			<key>a</key>
+			<optiona>Tallest</optiona>
+			<optionb>Taller</optionb>
+			<optionc>Most tall</optionc>
+			<optiond>More taller</optiond>
+	</question>
+	<question>
+			<cau>25</cau>
+			<content>Politicians are said to be the ……… reliable people in the world; nevertheless, there are always some people who seek such a career</content>
+			<key>b</key>
+			<optiona>Less</optiona>
+			<optionb>Least</optionb>
+			<optionc>More</optionc>
+			<optiond>Worst</optiond>
+	</question>
+	<question>
+			<cau>26</cau>
+			<content>Of all the presidential aides, they say he has the ……… powerful voice in decision-making</content>
+			<key>c</key>
+			<optiona>Much more</optiona>
+			<optionb>More than</optionb>
+			<optionc>Most</optionc>
+			<optiond>Best</optiond>
+	</question>
+	<question>
+			<cau>27</cau>
+			<content>Though he was ……… handsome man she had ever met, Caroline wouldn’t go out with him on a date</content>
+			<key>d</key>
+			<optiona>The more</optiona>
+			<optionb>More</optionb>
+			<optionc>Best</optionc>
+			<optiond>The most</optiond>
+	</question>
+	<question>
+			<cau>28</cau>
+			<content>Of the two games, no one thought the previous one was ……… exciting game</content>
+			<key>d</key>
+			<optiona>More</optiona>
+			<optionb>The best</optionb>
+			<optionc>Most</optionc>
+			<optiond>The more </optiond>
+	</question>
+	<question>
+			<cau>29</cau>
+			<content>The director is not as particular about the project ……… he used to be</content>
+			<key>c</key>
+			<optiona>So</optiona>
+			<optionb>Than</optionb>
+			<optionc>As</optionc>
+			<optiond>That</optiond>
+	</question>
+	<question>
+			<cau>30</cau>
+			<content>The situation is likely to become ……… than we expected it would be</content>
+			<key>b</key>
+			<optiona>Much bad</optiona>
+			<optionb>Much worse</optionb>
+			<optionc>Very bad</optionc>
+			<optiond>Very worse</optiond>
+	</question>
+	<question>
+			<cau>31</cau>
+			<content>The boy didn’t want to say ………</content>
+			<key>c</key>
+			<optiona>What did he do</optiona>
+			<optionb>What had he done</optionb>
+			<optionc>What he had done</optionc>
+			<optiond>What he was done</optiond>
+	</question>
+	<question>
+			<cau>32</cau>
+			<content>……… I don’t get back tonight, my wife will certainly be upset</content>
+			<key>a</key>
+			<optiona>If</optiona>
+			<optionb>Unless</optionb>
+			<optionc>Although</optionc>
+			<optiond>So</optiond>
+	</question>
+	<question>
+			<cau>33</cau>
+			<content>……… moving, or your feet will be come frozen in the extreme cold</content>
+			<key>a</key>
+			<optiona>Keep</optiona>
+			<optionb>Keeps</optionb>
+			<optionc>Keeping</optionc>
+			<optiond>Kept</optiond>
+	</question>
+	<question>
+			<cau>34</cau>
+			<content>Leave the office right away, ……… you will miss the train because of the traffic</content>
+			<key>c</key>
+			<optiona>So</optiona>
+			<optionb>And</optionb>
+			<optionc>Or</optionc>
+			<optiond>But</optiond>
+	</question>
+	<question>
+			<cau>35</cau>
+			<content>It’s time we ……… the store. It’s already ten o’clock</content>
+			<key>b</key>
+			<optiona>Have closed</optiona>
+			<optionb>Closed</optionb>
+			<optionc>Closing</optionc>
+			<optiond>Are closing</optiond>
+	</question>
+	<question>
+			<cau>36</cau>
+			<content>As ……… as he keeps silent, there will be no danger of the information being disclosed</content>
+			<key>a</key>
+			<optiona>Long</optiona>
+			<optionb>Fast</optionb>
+			<optionc>Soon</optionc>
+			<optiond>Far</optiond>
+		
+	</question>
+	<question>
+			<cau>37</cau>
+			<content>Anyone is welcome ……… they act respectfully the ceremony</content>
+			<key>b</key>
+			<optiona>Provide that</optiona>
+			<optionb>Providing that</optionb>
+			<optionc>Provided if</optionc>
+			<optiond>Providing if</optiond>
+	</question>
+	<question>
+			<cau>38</cau>
+			<content>I wish I ……… that she was sick. I would have gone to see her</content>
+			<key>b</key>
+			<optiona>Knew</optiona>
+			<optionb>Had known</optionb>
+			<optionc>Know</optionc>
+			<optiond>Have known</optiond>
+		
+	</question>
+	<question>
+			<cau>39</cau>
+			<content>I wish my father ……… here with me now, he passed away three years ago</content>
+			<key>c</key>
+			<optiona>Is</optiona>
+			<optionb>Was</optionb>
+			<optionc>Were</optionc>
+			<optiond>Are</optiond>
+	</question>
+	<question>
+			<cau>40</cau>
+			<content>You didn’t ask me, otherwise, I would ……… you the whole story</content>
+			<key>c</key>
+			<optiona>Told</optiona>
+			<optionb>Tell</optionb>
+			<optionc>Have told</optionc>
+			<optiond>Have been told</optiond>
+		
+	</question>
+	
+</questions>

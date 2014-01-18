@@ -1,0 +1,353 @@
+<!-- 10 group * 3 cau =30-->
+
+<short_talk>
+	<group>
+		<group_content></group_content>
+		<question>
+			<cau>1</cau>
+			<audio>1.mp3</audio>
+			<content>What is the celebration for?</content>
+			<optiona>The promotion of a coworker</optiona>
+			<optionb>The opening of a new banquet facility</optionb>
+			<optionc>The anniversary of the hotel</optionc>
+			<optiond>The retirement of a colleague</optiond>
+			<key>a</key>
+		</question>
+		<question>
+			<cau>2</cau>
+			<audio>2.mp3</audio>
+			<content>What is the celebration for?</content>
+			<optiona>The promotion of a coworker</optiona>
+			<optionb>The opening of a new banquet facility</optionb>
+			<optionc>The anniversary of the hotel</optionc>
+			<optiond>The retirement of a colleague</optiond>
+			<key>a</key>
+		</question>
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+	</group>
+	
+	<group>
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+		
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+		
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+	</group>
+		
+	<group>
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+		
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+		
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+	</group>
+	
+	<group>
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+		
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+		
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+	</group>
+	
+	<group>
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+		
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+		
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+	</group>
+	
+	<group>
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+		
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+		
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+	</group>
+	
+	<group>
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+		
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+		
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+	</group>
+	
+	<group>
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+		
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+		
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+	</group>
+	
+	<group>
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+		
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+		
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+	</group>
+	
+	<group>
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+		
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+		
+		<question>
+			<cau></cau>
+			<audio></audio>
+			<content></content>
+			<optiona></optiona>
+			<optionb></optionb>
+			<optionc></optionc>
+			<optiond></optiond>
+			<key></key>
+		</question>
+	</group>
+	
+</short_talk>
